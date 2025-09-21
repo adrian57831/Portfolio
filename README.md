@@ -27,3 +27,5 @@ The main entry point is the [Portfolio Hub](index.html), which links to all assi
 - JavaScript  
 - Microsoft Azure Static Web Apps
 
+## Credit
+Used ChatGPT to help with creating the cards as buttons to select what assignment to look at. 
