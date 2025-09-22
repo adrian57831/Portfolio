@@ -39,6 +39,21 @@ main {
   list-style: none;
 }
 
+.resume-btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #0078d4;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.resume-btn:hover {
+  background-color: #005a9e;
+}
+
+
 .assignments a,
 .coming-soon {
   display: block;
