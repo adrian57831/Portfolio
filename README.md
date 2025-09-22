@@ -1,6 +1,6 @@
 # Adrian's Software Engineering Portfolio
 
-Welcome to my Software Engineering Portfolio! This repository contains any assignments that will be submitted for the duration of this coure.
+Welcome to my Software Engineering Portfolio! This repo contains all assignments submitted for the duration of this course.
 
 ## Portfolio Hub
 
@@ -9,16 +9,16 @@ The main entry point is the [Portfolio Hub](index.html), which links to all assi
 ## Sprints
 
 - **Sprint 1: About Me**  
-  (Sprint1/about_Me_SE.html)
+  [View Sprint 1](Sprint1/about_Me_SE.html)
 
 - **Sprint 2: Dogs API 🐶**  
-  (Sprint2/index.html)
+  [View Sprint 2](Sprint2/index.html)
 
 - **Dice Roller 🎲**  
-  (DiceRoller/index.html)
+  [View Dice Roller](DiceRoller/index.html)
 
 - **Future Sprints**  
-  Awaiting. 
+  Awaiting.
 
 ## Languages Used
 
@@ -28,4 +28,5 @@ The main entry point is the [Portfolio Hub](index.html), which links to all assi
 - Microsoft Azure Static Web Apps
 
 ## Credit
-Used ChatGPT to help with creating the cards as buttons to select what assignment to look at. 
+
+Used ChatGPT to help with creating the cards as buttons to select which assignment to view.
