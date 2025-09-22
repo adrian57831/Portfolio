@@ -8,7 +8,7 @@ The main entry point is the [Portfolio Hub](index.html), which links to all assi
 
 ## Sprints
 
-- **Sprint 1: About Me**  
+- **Sprint 1: About Me👤**  
   [View Sprint 1](Sprint1/about_Me_SE.html)
 
 - **Sprint 2: Dogs API 🐶**  
